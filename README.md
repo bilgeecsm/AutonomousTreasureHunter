@@ -1,6 +1,6 @@
 # AutonomousTreasureHunter
  hazine avı
-Bu proje, oyun karakterinin rastgele harita içerisinde en kısa yol algoritmaları (A*) kullanılarak engellere takılmadan istenilen hazine sandıklarını en kısa güzergahı çizerek alması için geliştirilmiştir.  Veri yapıları, nesneye yönelik programlama bilgileri kullanılarak java programlama dilinde verilen bilgilerle haritalama ve hareket algoritması hazırlandı.
+Bu proje, oyun karakterinin rastgele harita içerisinde en kısa yol algoritmaları (A* algoritması) kullanılarak engellere takılmadan istenilen hazine sandıklarını en kısa güzergahı çizerek alması için geliştirilmiştir.  Veri yapıları, nesneye yönelik programlama bilgileri kullanılarak java programlama dilinde verilen bilgilerle haritalama ve hareket algoritması hazırlandı.
 
 Proje görselleri:
 
